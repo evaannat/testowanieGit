@@ -6,3 +6,5 @@ branch1
 
 test4
 
+zmiana w branch3
+
