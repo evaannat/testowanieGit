@@ -4,7 +4,5 @@ Moja 3 linia
 dodano w bashu
 branch1
 
-test4
-
 zmiana w branch3
 
